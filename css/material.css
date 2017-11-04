@@ -3371,7 +3371,8 @@ _:-ms-input-placeholder, :root .mdl-slider.mdl-slider.is-upgraded {
 }
 
 .mdl-textfield.is-focused .mdl-textfield__input {
-  outline: 0
+  outline: 0;
+  background-color: white;
 }
 
 .mdl-textfield.is-invalid .mdl-textfield__input {
